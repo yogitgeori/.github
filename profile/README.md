@@ -25,12 +25,19 @@
 ---
 
 ## 📂 레포지토리 안내 (Repositories)
-
+- [yogitgeori-frontend](링크): [뭘 써야 할까용?] 기반의 모바일 애플리리케이션 소스코드
+- [yogitgeori-backend](링크): Spring Boot 기반의 중심 비즈니스 서버 소스코드
+- [yogitgeori-ai](링크): FastAPI와 LLM 파이프라인이 구축된 AI 서버 소스코드
+- [yogitgeori-doc_repo](https://github.com/yogitgeori/doc_repo.git): 개발에 필요한 문서 저장소
 
 ---
 
 ## 👥 팀원 소개 (Team Members)
 | 이름 | 역할 | 담당 업무 | GitHub |
 | :---: | :---: | :--- | :---: |
-| **홍길동** | PM / FE | Flutter 앱 설계, UI/UX 구현, GPS 및 지도 API 연동 | [@github_id](https://github.com) |
-| **이재혁** | BE / AI | Spring Boot 아키텍처 설계, 공공 API 매시업, FastAPI-LLM 파이프라인 구축 | [@your_id](https://github.com) |
+| **조조희문** | BE | Spring Boot 아키텍처 설계, 공공 API 매시업 | [@github_id](https://github.com/ohdyo) |
+| **방탄지민** | FE | [뭘 써야 할까용?]앱 설계 및 구현, GPS 및 지도 API 연동 | [@github_id](https://github.com) |
+| **슬의생** | UX/UI | UI/UX Designer | [@github_id](https://github.com) |
+| **전기뱀재혁** | AI | FastAPI-LLM 파이프라인 구축 | [@ohdyo](https://github.com/ohdyo) |
+| **재키찬** | AI | FastAPI-LLM 파이프라인 구축 | [@ohdyo](https://github.com/ohdyo) |
+
